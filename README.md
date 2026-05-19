@@ -1,6 +1,8 @@
 # Modelagem de IA — FarmTech Solutions
 **FIAP — Inteligência Artificial | Fase 3 — Capítulo 10**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IA-Grupo-8A-FIAP/fiap-fase3-cap10-farmtech/blob/main/LucasCarvalho_BrenoezoLeardini_AbnerHenrique_EltonModesto_LarissaDaSilva_RM570388_RM572533_RM572253_RM572530_RM571790_fase3_cap10.ipynb)
+
 ## Sobre o projeto
 Aplicação de técnicas de aprendizado supervisionado de classificação multiclasse para recomendação de culturas agrícolas com base em variáveis de solo (N, P, K, pH) e clima (temperatura, umidade, precipitação).
 
